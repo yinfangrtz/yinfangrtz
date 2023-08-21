@@ -11,17 +11,27 @@ I hold not one, but two master's degrees that have shaped my journey:
 
 🌐 Exploring the Intersection of Designer and Developer
 
-💬 Let's chat about: [Sociology, Post-War Reconstruction, Restoration of Historical Building, AI's Cognitive Advancements, Superconductors]
+💬 Let's chat about: [Sociology, Post-War Reconstruction, Art, Restoration of Historical Building, AI's Cognitive Advancements]
 
 ## Front-End Projects
 
-1. [Project 1 Name]
+1. [Project 1 AIStockWise React Website]
+    Weblink: "https://ai-stock-wise-react.netlify.app",
+    Github: "https://github.com/yinfangrtz/AIStockWise-React"
+   
+2. [Project 2 My Portfolio Website]
 
-2. [Project 2 Name]
+3. [Project 3 Superconductor Website]
+    Weblink: "https://superconductor-css-practice.netlify.app",
+    Github: "https://github.com/yinfangrtz/Superconductor-site-with-css-design-system"
 
-3. [Project 3 Name]
-
-4. [Project 4 Name]
+4. [Project 4 XAMPP TechStack APP]
+    Weblink: "https://stalwart-pie-926a25.netlify.app",
+    Github: "https://github.com/yinfangrtz/XAMPP-tech-stack-APP"
+   
+5. [Project 5 FramerMotion Reservation Website]
+    Weblink: "https://framer-motion-reservation.netlify.app",
+    Github: "https://github.com/yinfangrtz/Framer-Motion-Reservation-Website"
 
 ## Data Analysis Projects
 
@@ -44,10 +54,8 @@ I hold not one, but two master's degrees that have shaped my journey:
 
 5. [Quantitative-Data-Analysis-Project-2]
    https://github.com/yinfangrtz/Quantitative-Data-Analysis-Project-2
-   An analysis of the difference between the effect of visual interruptions and the effect of audio interruptions on participant's Tetris gameplay performance
-   
-   
+   An analysis of the difference between the effect of visual interruptions and the effect of audio interruptions on participant's Tetris gameplay performance  
 
 ## Get in Touch
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yinfangyang/) and check out more of my work on [my website](Your Website URL). Looking forward to sharing ideas and collaborating with fellow developers and data enthusiasts!
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yinfangyang/) and check out more of my design work on [Behance](https://www.behance.net/RheaYang). Looking forward to sharing ideas and collaborating with fellow developers and data enthusiasts!
