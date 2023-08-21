@@ -13,16 +13,18 @@ I hold not one, but two master's degrees that have shaped my journey:
 
 🌐 Exploring the Intersection of Designer and Developer
 
-💬 Let's chat about: [Sociology, Post-War Reconstruction, Art, Restoration of Historical Building, AI's Cognitive Advancements]
+💬 Let's chat about: [Sociology, Post-War Reconstruction, Art, Restoration of Historical Building, Sentient AI ]
 
 ## Front-End Projects
 
-1. [Project 1 AIStockWise React Website]    
-    Weblink: "https://ai-stock-wise-react.netlify.app",   
-    Github: "https://github.com/yinfangrtz/AIStockWise-React"   
+1. [Project 1 My Portfolio Website]    
+    Weblink: "https://my-3d-portfolio-full.netlify.app",     
+    Github: "https://github.com/yinfangrtz/My-3D-Portfolio"   
    
-2. [Project 2 My Portfolio Website]   
- 
+2. [Project 2 AIStockWise React Website]     
+    Weblink: "https://ai-stock-wise-react.netlify.app",    
+    Github: "https://github.com/yinfangrtz/AIStockWise-React"   
+    
 3. [Project 3 Superconductor Website]   
     Weblink: "https://superconductor-css-practice.netlify.app",   
     Github: "https://github.com/yinfangrtz/Superconductor-site-with-css-design-system"   
