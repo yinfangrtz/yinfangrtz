@@ -1,17 +1,18 @@
 # Hello, World! 👋
 
-Welcome to my GitHub homepage! I'm Yang Yinfang, a passionate developer with a unique blend of expertise in both architecture and information systems.     
-Holding two prestigious master's degrees from Politecnico di Milano in Architecture and from UCD in Information Systems, I bring a rich and diverse background to my approach in shaping digital experiences.     
+Welcome to my GitHub homepage! I'm Yang Yinfang, a passionate developer with a unique blend of expertise in both information systems and architecture.     
+Holding two prestigious master's degrees from UCD in Information Systems and from Politecnico di Milano in Architecture, I bring a rich and diverse background to my approach in shaping digital experiences.     
 Here, you'll find a curated collection of projects that showcase my multidisciplinary approach to creating impactful and user-centric solutions. Feel free to explore!
 
 ## About Me
 
 I hold not one, but two master's degrees that have shaped my journey:
 
-🏛️ Master's in Architecture from Politecnico di Milano, where I explored the intricate blend of design, space, and aesthetics.
-💻 Master's in Information Systems from UCD, where I delved into the world of data, technology, and systems.
+💻 Master's in Information Systems from UCD, where I delved into the world of data, technology, and development.  
+🏛️ Master's in Architecture from Politecnico di Milano, where I explored the intricate blend of design, space, sociology, restoration and aesthetics.
+🏗️ Project manager and Architect at Stefano Boeri Architetti, where I contributed to the largest Accessible Rehabilitation Service Center in China, I involved in the development of office spaces, theater complexes, sports facilities, residential structures, conference venues, commercial centers, and over 20 skyscrapers.
 
-🌐 Exploring the Intersection of Designer and Developer
+🌐 Exploring the Intersection of Designer and Developer. I’m a Developer who Designs / I’m a Designer who Codes.
 
 💬 Let's chat about: [Sociology, Post-War Reconstruction, Art, Restoration of Historical Building, Sentient AI ]
 
