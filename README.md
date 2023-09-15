@@ -40,26 +40,26 @@ I hold not one, but two master's degrees that have shaped my journey:
 
 ## Data Analysis Projects
 
-1. [AI-Powered-Data-Pattern-Discovery]   
-   https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery   
-   Machine Learning-assisted Text Pattern Discovery in the Bible   
+1. [Machine-Learning-Project]   
+   https://github.com/yinfangrtz/Machine-Learning-Project  
+   This project focuses on the application of machine learning techniques to a real-world classification task   
    
 2. [Human-Language-Technologies Projects]   
    https://github.com/yinfangrtz/Human-Language-Technologies   
    Project 1: Language Style Analysis across Subreddits   
    Project 2: N-gram Algorithm for Sentence and Word Generation   
 
-3. [Machine-Learning-Project]   
-   https://github.com/yinfangrtz/Machine-Learning-Project  
-   This project focuses on the application of machine learning techniques to a real-world classification task  
-
-4. [Quantitative-Data-Analysis-Project-1]   
+3. [Quantitative-Data-Analysis-Project-1]   
    https://github.com/yinfangrtz/Quantitative-Data-Analysis-Project-1   
    An analysis of the relationship between the Raw NASA Task Load Index and the System Usability Scale   
 
-5. [Quantitative-Data-Analysis-Project-2]   
+4. [Quantitative-Data-Analysis-Project-2]   
    https://github.com/yinfangrtz/Quantitative-Data-Analysis-Project-2   
-   An analysis of the difference between the effect of visual interruptions and the effect of audio interruptions on participant's Tetris gameplay performance    
+   An analysis of the difference between the effect of visual interruptions and the effect of audio interruptions    on participant's Tetris gameplay performance
+
+5. [AI-Powered-Data-Pattern-Discovery]   
+   https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery   
+   Machine Learning-assisted Text Pattern Discovery in the Bible
 
 ## Get in Touch
 
