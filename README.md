@@ -18,46 +18,48 @@ I hold not one, but two master's degrees that have shaped my journey:
 
 ## Front-End Projects
 
-1. [Project 1 My Portfolio Website]    
-    Weblink: "https://my-3d-portfolio-full.netlify.app",     
-    Github: "https://github.com/yinfangrtz/My-3D-Portfolio"   
+1. [Project 1 My 3D Portfolio Website]    
+    Weblink: https://my-3d-portfolio-full.netlify.app    
+    Github: https://github.com/yinfangrtz/My-3D-Portfolio  
    
-2. [Project 2 AIStockWise React Website]     
-    Weblink: "https://ai-stock-wise-react.netlify.app",    
-    Github: "https://github.com/yinfangrtz/AIStockWise-React"   
+2. [Project 2 React AI StockWise Website]     
+    Weblink: https://ai-stock-wise-react.netlify.app        
+    Github: https://github.com/yinfangrtz/AIStockWise-React     
     
-3. [Project 3 Superconductor Website]   
-    Weblink: "https://superconductor-css-practice.netlify.app",   
-    Github: "https://github.com/yinfangrtz/Superconductor-site-with-css-design-system"   
+3. [Project 3 Travel Platform Website]   
+    Weblink: https://superconductor-css-practice.netlify.app   
+    Github: https://github.com/yinfangrtz/Superconductor-site-with-css-design-system   
 
-4. [Project 4 XAMPP TechStack APP]   
-    Weblink: "https://stalwart-pie-926a25.netlify.app",   
-    Github: "https://github.com/yinfangrtz/XAMPP-tech-stack-APP"   
+4. [Project 4 XAMPP Full Stack Application]   
+    Weblink: https://stalwart-pie-926a25.netlify.app     
+    Github: https://github.com/yinfangrtz/XAMPP-tech-stack-APP   
    
 5. [Project 5 FramerMotion Reservation Website]   
-    Weblink: "https://framer-motion-reservation.netlify.app",   
-    Github: "https://github.com/yinfangrtz/Framer-Motion-Reservation-Website"   
+    Weblink: https://framer-motion-reservation.netlify.app    
+    Github: https://github.com/yinfangrtz/Framer-Motion-Reservation-Website   
 
 ## Data Analysis Projects
 
-1. [Machine-Learning-Project]   
+1. [Machine Learning-Based Article Classification]   
    https://github.com/yinfangrtz/Machine-Learning-Project  
    This project focuses on the application of machine learning techniques to a real-world classification task   
    
-2. [Human-Language-Technologies Projects]   
+2. [Natural Language Processing for Text Analysis ]   
    https://github.com/yinfangrtz/Human-Language-Technologies   
    Project 1: Language Style Analysis across Subreddits   
    Project 2: N-gram Algorithm for Sentence and Word Generation   
 
-3. [Quantitative-Data-Analysis-Project-1]   
+3. [Quantitative Data Analysis-Project-1]   
+   Project 1:
    https://github.com/yinfangrtz/Quantitative-Data-Analysis-Project-1   
-   An analysis of the relationship between the Raw NASA Task Load Index and the System Usability Scale   
+   An analysis of the relationship between the Raw NASA Task Load Index and the System Usability Scale
+   Project 2:  
 
-4. [Quantitative-Data-Analysis-Project-2]   
+5. [Quantitative-Data-Analysis-Project-2]   
    https://github.com/yinfangrtz/Quantitative-Data-Analysis-Project-2   
    An analysis of the difference between the effect of visual interruptions and the effect of audio interruptions    on participant's Tetris gameplay performance
 
-5. [AI-Powered-Data-Pattern-Discovery]   
+6. [Machine Learning-Based Pattern Discovery in Bible]   
    https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery   
    Machine Learning-assisted Text Pattern Discovery in the Bible
 
