@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Welcome to my GitHub homepage! I'm Yang Yinfang, a passionate developer with a unique blend of expertise in both information systems and architecture.     
+Welcome to my GitHub homepage! I'm Avery, a passionate developer with a unique blend of expertise in both information systems and architecture.     
 Holding two prestigious master's degrees from UCD in Information Systems and from Politecnico di Milano in Architecture, I bring a rich and diverse background to my approach in shaping digital experiences.     
 Here, you'll find a curated collection of projects that showcase my multidisciplinary approach to creating impactful and user-centric solutions. Feel free to explore!
 
