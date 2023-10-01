@@ -49,15 +49,13 @@ I hold not one, but two master's degrees that have shaped my journey:
    Project 1: Language Style Analysis across Subreddits   
    Project 2: N-gram Algorithm for Sentence and Word Generation   
 
-3. [Quantitative Data Analysis-Project-1]   
-   Project 1:
+3. [Quantitative Data Analysis between the Raw NASA Task Load Index and the System Usability Scale]   
    https://github.com/yinfangrtz/Quantitative-Data-Analysis-Project-1   
    An analysis of the relationship between the Raw NASA Task Load Index and the System Usability Scale
-   Project 2:  
 
-5. [Quantitative-Data-Analysis-Project-2]   
+5. [Quantitative Data Analysis between the effect of visual interruptions and the effect of audio interruptions]   
    https://github.com/yinfangrtz/Quantitative-Data-Analysis-Project-2   
-   An analysis of the difference between the effect of visual interruptions and the effect of audio interruptions    on participant's Tetris gameplay performance
+   An analysis of the difference between the effect of visual interruptions and the effect of audio interruptions on participant's Tetris gameplay performance
 
 6. [Machine Learning-Based Pattern Discovery in Bible]   
    https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery   
